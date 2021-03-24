@@ -1,0 +1,160 @@
+0 	Metallic Black 	#0d1116 	13, 17, 22
+1 	Metallic Graphite Black 	#1c1d21 	28, 29, 33
+2 	Metallic Black Steal 	#32383d 	50, 56, 61
+3 	Metallic Dark Silver 	#454b4f 	69, 75, 79
+4 	Metallic Silver 	#999da0 	153, 157, 160
+5 	Metallic Blue Silver 	#c2c4c6 	194, 196, 198
+6 	Metallic Steel Gray 	#979a97 	151, 154, 151
+7 	Metallic Shadow Silver 	#637380 	99, 115, 128
+8 	Metallic Stone Silver 	#63625c 	99, 98, 92
+9 	Metallic Midnight Silver 	#3c3f47 	60, 63, 71
+10 	Metallic Gun Metal 	#444e54 	68, 78, 84
+11 	Metallic Anthracite Grey 	#1d2129 	29, 33, 41
+12 	Matte Black 	#13181f 	19, 24, 31
+13 	Matte Gray 	#26282a 	38, 40, 42
+14 	Matte Light Grey 	#515554 	81, 85, 84
+15 	Util Black 	#151921 	21, 25, 33
+16 	Util Black Poly 	#1e2429 	30, 36, 41
+17 	Util Dark silver 	#333a3c 	51, 58, 60
+18 	Util Silver 	#8c9095 	140, 144, 149
+19 	Util Gun Metal 	#39434d 	57, 67, 77
+20 	Util Shadow Silver 	#506272 	80, 98, 114
+21 	Worn Black 	#1e232f 	30, 35, 47
+22 	Worn Graphite 	#363a3f 	54, 58, 63
+23 	Worn Silver Grey 	#a0a199 	160, 161, 153
+24 	Worn Silver 	#d3d3d3 	211, 211, 211
+25 	Worn Blue Silver 	#b7bfca 	183, 191, 202
+26 	Worn Shadow Silver 	#778794 	119, 135, 148
+27 	Metallic Red 	#c00e1a 	192, 14, 26
+28 	Metallic Torino Red 	#da1918 	218, 25, 24
+29 	Metallic Formula Red 	#b6111b 	182, 17, 27
+30 	Metallic Blaze Red 	#a51e23 	165, 30, 35
+31 	Metallic Graceful Red 	#7b1a22 	123, 26, 34
+32 	Metallic Garnet Red 	#8e1b1f 	142, 27, 31
+33 	Metallic Desert Red 	#6f1818 	111, 24, 24
+34 	Metallic Cabernet Red 	#49111d 	73, 17, 29
+35 	Metallic Candy Red 	#b60f25 	182, 15, 37
+36 	Metallic Sunrise Orange 	#d44a17 	212, 74, 23
+37 	Metallic Classic Gold 	#c2944f 	194, 148, 79
+38 	Metallic Orange 	#f78616 	247, 134, 22
+39 	Matte Red 	#cf1f21 	207, 31, 33
+40 	Matte Dark Red 	#732021 	115, 32, 33
+41 	Matte Orange 	#f27d20 	242, 125, 32
+42 	Matte Yellow 	#ffc91f 	255, 201, 31
+43 	Util Red 	#9c1016 	156, 16, 22
+44 	Util Bright Red 	#de0f18 	222, 15, 24
+45 	Util Garnet Red 	#8f1e17 	143, 30, 23
+46 	Worn Red 	#a94744 	169, 71, 68
+47 	Worn Golden Red 	#b16c51 	177, 108, 81
+48 	Worn Dark Red 	#371c25 	55, 28, 37
+49 	Metallic Dark Green 	#132428 	19, 36, 40
+50 	Metallic Racing Green 	#122e2b 	18, 46, 43
+51 	Metallic Sea Green 	#12383c 	18, 56, 60
+52 	Metallic Olive Green 	#31423f 	49, 66, 63
+53 	Metallic Green 	#155c2d 	21, 92, 45
+54 	Metallic Gasoline Blue Green 	#1b6770 	27, 103, 112
+55 	Matte Lime Green 	#66b81f 	102, 184, 31
+56 	Util Dark Green 	#22383e 	34, 56, 62
+57 	Util Green 	#1d5a3f 	29, 90, 63
+58 	Worn Dark Green 	#2d423f 	45, 66, 63
+59 	Worn Green 	#45594b 	69, 89, 75
+60 	Worn Sea Wash 	#65867f 	101, 134, 127
+61 	Metallic Midnight Blue 	#222e46 	34, 46, 70
+62 	Metallic Dark Blue 	#233155 	35, 49, 85
+63 	Metallic Saxony Blue 	#304c7e 	48, 76, 126
+64 	Metallic Blue 	#47578f 	71, 87, 143
+65 	Metallic Mariner Blue 	#637ba7 	99, 123, 167
+66 	Metallic Harbor Blue 	#394762 	57, 71, 98
+67 	Metallic Diamond Blue 	#d6e7f1 	214, 231, 241
+68 	Metallic Surf Blue 	#76afbe 	118, 175, 190
+69 	Metallic Nautical Blue 	#345e72 	52, 94, 114
+70 	Metallic Bright Blue 	#0b9cf1 	11, 156, 241
+71 	Metallic Purple Blue 	#2f2d52 	47, 45, 82
+72 	Metallic Spinnaker Blue 	#282c4d 	40, 44, 77
+73 	Metallic Ultra Blue 	#2354a1 	35, 84, 161
+74 	Metallic Bright Blue 	#6ea3c6 	110, 163, 198
+75 	Util Dark Blue 	#112552 	17, 37, 82
+76 	Util Midnight Blue 	#1b203e 	27, 32, 62
+77 	Util Blue 	#275190 	39, 81, 144
+78 	Util Sea Foam Blue 	#608592 	96, 133, 146
+79 	Util Lightning blue 	#2446a8 	36, 70, 168
+80 	Util Maui Blue Poly 	#4271e1 	66, 113, 225
+81 	Util Bright Blue 	#3b39e0 	59, 57, 224
+82 	Matte Dark Blue 	#1f2852 	31, 40, 82
+83 	Matte Blue 	#253aa7 	37, 58, 167
+84 	Matte Midnight Blue 	#1c3551 	28, 53, 81
+85 	Worn Dark blue 	#4c5f81 	76, 95, 129
+86 	Worn Blue 	#58688e 	88, 104, 142
+87 	Worn Light blue 	#74b5d8 	116, 181, 216
+88 	Metallic Taxi Yellow 	#ffcf20 	255, 207, 32
+89 	Metallic Race Yellow 	#fbe212 	251, 226, 18
+90 	Metallic Bronze 	#916532 	145, 101, 50
+91 	Metallic Yellow Bird 	#e0e13d 	224, 225, 61
+92 	Metallic Lime 	#98d223 	152, 210, 35
+93 	Metallic Champagne 	#9b8c78 	155, 140, 120
+94 	Metallic Pueblo Beige 	#503218 	80, 50, 24
+95 	Metallic Dark Ivory 	#473f2b 	71, 63, 43
+96 	Metallic Choco Brown 	#221b19 	34, 27, 25
+97 	Metallic Golden Brown 	#653f23 	101, 63, 35
+98 	Metallic Light Brown 	#775c3e 	119, 92, 62
+99 	Metallic Straw Beige 	#ac9975 	172, 153, 117
+100 	Metallic Moss Brown 	#6c6b4b 	108, 107, 75
+101 	Metallic Biston Brown 	#402e2b 	64, 46, 43
+102 	Metallic Beechwood 	#a4965f 	164, 150, 95
+103 	Metallic Dark Beechwood 	#46231a 	70, 35, 26
+104 	Metallic Choco Orange 	#752b19 	117, 43, 25
+105 	Metallic Beach Sand 	#bfae7b 	191, 174, 123
+106 	Metallic Sun Bleeched Sand 	#dfd5b2 	223, 213, 178
+107 	Metallic Cream 	#f7edd5 	247, 237, 213
+108 	Util Brown 	#3a2a1b 	58, 42, 27
+109 	Util Medium Brown 	#785f33 	120, 95, 51
+110 	Util Light Brown 	#b5a079 	181, 160, 121
+111 	Metallic White 	#fffff6 	255, 255, 246
+112 	Metallic Frost White 	#eaeaea 	234, 234, 234
+113 	Worn Honey Beige 	#b0ab94 	176, 171, 148
+114 	Worn Brown 	#453831 	69, 56, 49
+115 	Worn Dark Brown 	#2a282b 	42, 40, 43
+116 	Worn straw beige 	#726c57 	114, 108, 87
+117 	Brushed Steel 	#6a747c 	106, 116, 124
+118 	Brushed Black steel 	#354158 	53, 65, 88
+119 	Brushed Aluminium 	#9ba0a8 	155, 160, 168
+120 	Chrome 	#5870a1 	88, 112, 161
+121 	Worn Off White 	#eae6de 	234, 230, 222
+122 	Util Off White 	#dfddd0 	223, 221, 208
+123 	Worn Orange 	#f2ad2e 	242, 173, 46
+124 	Worn Light Orange 	#f9a458 	249, 164, 88
+125 	Metallic Securicor Green 	#83c566 	131, 197, 102
+126 	Worn Taxi Yellow 	#f1cc40 	241, 204, 64
+127 	police car blue 	#4cc3da 	76, 195, 218
+128 	Matte Green 	#4e6443 	78, 100, 67
+129 	Matte Brown 	#bcac8f 	188, 172, 143
+130 	Worn Orange 	#f8b658 	248, 182, 88
+131 	Matte White 	#fcf9f1 	252, 249, 241
+132 	Worn White 	#fffffb 	255, 255, 251
+133 	Worn Olive Army Green 	#81844c 	129, 132, 76
+134 	Pure White 	#ffffff 	255, 255, 255
+135 	Hot Pink 	#f21f99 	242, 31, 153
+136 	Salmon pink 	#fdd6cd 	253, 214, 205
+137 	Metallic Vermillion Pink 	#df5891 	223, 88, 145
+138 	Orange 	#f6ae20 	246, 174, 32
+139 	Green 	#b0ee6e 	176, 238, 110
+140 	Blue 	#08e9fa 	8, 233, 250
+141 	Mettalic Black Blue 	#0a0c17 	10, 12, 23
+142 	Metallic Black Purple 	#0c0d18 	12, 13, 24
+143 	Metallic Black Red 	#0e0d14 	14, 13, 20
+144 	hunter green 	#9f9e8a 	159, 158, 138
+145 	Metallic Purple 	#621276 	98, 18, 118
+146 	Metaillic V Dark Blue 	#0b1421 	11, 20, 33
+147 	MODSHOP BLACK1 	#11141a 	17, 20, 26
+148 	Matte Purple 	#6b1f7b 	107, 31, 123
+149 	Matte Dark Purple 	#1e1d22 	30, 29, 34
+150 	Metallic Lava Red 	#bc1917 	188, 25, 23
+151 	Matte Forest Green 	#2d362a 	45, 54, 42
+152 	Matte Olive Drab 	#696748 	105, 103, 72
+153 	Matte Desert Brown 	#7a6c55 	122, 108, 85
+154 	Matte Desert Tan 	#c3b492 	195, 180, 146
+155 	Matte Foilage Green 	#5a6352 	90, 99, 82
+156 	DEFAULT ALLOY COLOR 	#81827f 	129, 130, 127
+157 	Epsilon Blue 	#afd6e4 	175, 214, 228
+158 	Pure Gold 	#7a6440 	122, 100, 64
+159 	Brushed Gold 	#7f6a48 	127, 106, 72 
